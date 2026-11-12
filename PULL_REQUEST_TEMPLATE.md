@@ -35,6 +35,13 @@ AB#
 - [ ] Probado localmente
 - [ ] Tests de integración pasan (si aplica)
 
+## Revisión del autor
+
+<!-- Obligatorio antes de pedir revisión. La aprobación la da otra persona: el autor no puede aprobar su propia PR. -->
+
+- [ ] He revisado el diff completo de la PR (sin cambios no intencionados, código de depuración ni ficheros ajenos)
+- [ ] He probado el cambio y explico cómo en "Testing"
+
 ## Checklist
 
 - [ ] Mi código sigue las convenciones del repositorio
